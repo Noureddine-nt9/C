@@ -33,4 +33,6 @@ int main(){
         default:
             printf("\nInvalid choice");
     }
+    return 0;
 }
+
