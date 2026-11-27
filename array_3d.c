@@ -17,4 +17,5 @@ int main(){
             }
         }printf("\n");//when it start new block it will printf this
     }
+    return 0;
 }
