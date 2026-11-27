@@ -14,5 +14,6 @@ int main(){
     bool second_p = age_p2 >=18;
     //Methose 2
     (second_p) ? printf("\nAllowed for p2") : printf("\nNot allowed for p2");
+    return 0;
 
 }
