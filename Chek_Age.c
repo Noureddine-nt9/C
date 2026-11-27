@@ -4,4 +4,5 @@
 int main(){
     int age = 22 , minAge = 20;
     printf("%d",age>=minAge);//IF the outpoot  1 that's mean he can have the acces
+    return 0;
 }
